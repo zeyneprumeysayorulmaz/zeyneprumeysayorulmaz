@@ -1,7 +1,5 @@
 ### :octocat: Hi there 👋 I'm Zeynep
 
-- 🔭 I’m currently working on Turk Telekom...
-
 - :star2: I am a passionate researcher and open source enthusiast.
 
 - :muscle: I am interested in DevSecOps, Kubernetes, Cloud Computing and Cyber Security and I am developing myself accordingly.
